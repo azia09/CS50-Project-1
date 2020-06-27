@@ -1,0 +1,24 @@
+.three, .two, .one {
+  font-family: sans-serif;
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.one {
+  background-color: #ccffcc;
+  font-size: 18px;
+}
+
+.two {
+  background-color: #99ff99;
+  font-size: 20px;
+}
+
+.three {
+  background-color: #66ff66;
+  font-size: 22px;
+}
+
+/*# sourceMappingURL=ODI.css.map */
